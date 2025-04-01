@@ -14,9 +14,12 @@ Published in **Conference/Journal Name, Year**
 
 ## Contents
 
-- `notebooks/` - Jupyter notebooks for analysis and visualization.
+- `notebooks/` - Constains the step-1 reference interview code.
+- `dataset/` - nothing so far
+  Download the dataset here locally <user_profiles.json, user_history.json, user_instructions.json, all_products.json> from: https://hongrucai.github.io/PersonalWAB/download
 
 
+<Everythign below is still unprepared - >
 
 ## Setup & Installation
 
