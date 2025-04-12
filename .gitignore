@@ -1,1 +1,4 @@
 .env
+openai_logger.log
+product_index
+__pycache__
